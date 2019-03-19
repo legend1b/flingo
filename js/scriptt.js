@@ -32,8 +32,9 @@ if(window.AdMob) AdMob.createBanner( {
 }
   function onDeviceReady(){
   StatusBar.backgroundColorByHexString("#185181");
-  adSetter();
    alert("device ready");
+  adSetter();
+   
       
   }
 function intershoo(){
@@ -41,8 +42,8 @@ function intershoo(){
 }
 
 function intershow(){	
+      alert("device ready");
       adSetter();
-	  alert("device ready");
 }
 
 function domLoaded(){
