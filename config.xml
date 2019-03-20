@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
-  id          = "flingoearn.com"
+  id          = "flingodeearn.com"
   versionCode = "90"
   version     = "9.0.0" >
 
   <!-- versionCode is optional and Android only -->
 
-  <name>flingo Streeted</name>
+  <name>flingo Straated</name>
 
   <description>
     flingo2
