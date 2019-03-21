@@ -6,7 +6,7 @@
 
   <!-- versionCode is optional and Android only -->
 
-  <name>flingo Straated</name>
+  <name>MOREC</name>
 
   <description>
     morec
@@ -16,15 +16,15 @@
     flingo
   </author>
 
-  <!-- We'll include the Barcode plugin as an example -->
-  <plugin name="cordova-plugin-statusbar" spec="~2.4.1" source="npm"/>
+  <!-- We'll include the Barcode plugin as an example source="npm"-->
+  <plugin name="cordova-plugin-statusbar" spec="2.4.2" />
   <preference name="StatusBarOverlaysWebView" value="false" />
   <preference name="StatusBarStyle" value="lightcontent" />
   
   <!-- We'll include the Barcode plugin as an example -->
   <preference name="android-build-tool" value="gradle" />
   <preference name="phonegap-version" value="cli-7.1.0" />
-  <plugin name="cordova-plugin-admobpro" source="npm"/>
+  <plugin name="cordova-plugin-admobpro" spec="2.37.2" />
   <variable name="PLAY_SERVICES_VERSION" value="16.0.0" />
 
 
